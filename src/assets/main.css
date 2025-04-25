@@ -1,0 +1,9 @@
+/* src/assets/styles.css or src/assets/main.css */
+body {
+    font-family: 'Lato', sans-serif;
+  font-weight: 300;  /* Light weight */
+  }
+  
+  h1, h2, h3 {
+    font-weight: 300; /* or even 300 if you want them super light */
+  }
