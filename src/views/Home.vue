@@ -26,7 +26,7 @@
           <h3>Dancer's Choice</h3>
           <p>June 21, 2025</p>
           <p>Lopez Theater -- Falmouth, ME</p>
-          <a href="#" target="_blank">Learn More</a>
+          <a href="https://www.mainestateballet.org/2024-25-season" target="_blank">Learn More</a>
         </div>
 
         <!-- Card 2: Serenade -->
@@ -34,7 +34,7 @@
           <h3>Serenade</h3>
           <p>June 21, 2025</p>
           <p>Lopez Theater -- Falmouth, ME</p>
-          <a href="#" target="_blank">Learn More</a>
+          <a href="https://www.mainestateballet.org/2024-25-season" target="_blank">Learn More</a>
         </div>
 
         <!-- Card 3: Teaching Heels -->
@@ -42,7 +42,7 @@
           <h3>Heels Dance Instructor</h3>
           <p>Maine Dance Center -- 7:00 PM Wednesdays</p>
           <p>Body Positive Dance -- 5:00 PM Thursdays</p>
-          <a href="#" target="_blank">Learn More</a>
+          <a href="https://www.mainedancecenter.com" target="_blank">Learn More</a>
         </div>
       </div>
     </div>

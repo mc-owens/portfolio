@@ -4,7 +4,7 @@
         <h2>Let's Connect</h2>
         <p>207-653-4861</p>
         <p>marieclaire.owens@gmail.com</p>
-        <form @submit.prevent="handleSubmit">
+        <form @submit.prevent="handleSubmit" action="https://formspree.io/f/mvgagzdo" method="POST">
           <div class="form-group">
             <label for="name">Name</label>
             <input v-model="name" type="text" id="name" required />
@@ -31,7 +31,7 @@
   const message = ref('')
   
   const handleSubmit = () => {
-    alert(`Sending message from ${name.value}...`)
+    alert(`Sending message to Marieclaire from ${name.value}...`)
     // You’ll replace this with Formspree or EmailJS later.
     name.value = ''
     email.value = ''
