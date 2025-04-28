@@ -1,14 +1,7 @@
 <template>
     <div class="video-wrapper text-center">
       <div class="video-border">
-        <iframe
-          width="900"
-          height="506"
-          src="https://www.youtube.com/embed/LtZjtD8K56Q"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/IQONsQTpWZE?si=0ekrHlEU6OeAy_W9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </div>
   </template>
